@@ -77,7 +77,7 @@
 ```properties
 GitHub:  https://github.com/CyanBukkit
 Email:   admin@lanternmc.cn
-官网:     https://cyanbukkit.org (Under Construction)
+官网:     https://www.cyanbukkit.net 
 ```
 
 <sub>🕒 中国标准时间 UTC+8 响应</sub>
