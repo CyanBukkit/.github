@@ -82,3 +82,4 @@ Email:   admin@lanternmc.cn
 
 <sub>🕒 中国标准时间 UTC+8 响应</sub>
 
+[![](https://www.go176.net/content/uploadfile/202309/b5111695853313.png)](https://awacode.top/lyxy)
