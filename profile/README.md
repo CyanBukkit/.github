@@ -1,4 +1,3 @@
----
 
 **CyanBukkit | 青桐工作室**  
 *A Minecraft Server Innovation Hub | 我的世界服务器技术革新中心*
