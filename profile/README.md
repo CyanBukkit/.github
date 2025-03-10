@@ -9,6 +9,8 @@
 ### 🌐 简介 | About Us  
 **CyanBukkit** 是诞生于中国大陆的 Minecraft服务器 开源技术工作室，专注于高性能服务器开发、插件生态优化与跨时代游戏体验设计。  
 **CyanBukkit** is a China-based open-source studio dedicated to Minecraft server development, plugin ecosystem optimization, and next-generation gameplay design.
+Github 主要存放 Cyan 系列的开源项目    https://github.com/CyanBukkit
+Cnb.cool 主要存放 不同名字开头的 项目  https://cnb.cool/cyanbukkit
 
 ---
 
