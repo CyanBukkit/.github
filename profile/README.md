@@ -17,7 +17,7 @@
 
 📁 代码仓库:  
 - GitHub 开源项目: https://github.com/CyanBukkit  
-- 多元化项目存储: https://cnb.cool/cyanbukkit  
+- 多元化项目存储: https://gitee.com/cyanbukkit  
 
 ---
 
